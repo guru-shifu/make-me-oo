@@ -1,9 +1,9 @@
-package org.oop;
+package com.thoughtworks.makemeoo.oop;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.oop.DistanceAndDirectionCalculator.direction;
+import static com.thoughtworks.makemeoo.oop.DistanceAndDirectionCalculator.direction;
 
 public class DistanceAndDirectionCalculatorTest {
 

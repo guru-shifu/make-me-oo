@@ -1,4 +1,4 @@
-package org.procedural;
+package com.thoughtworks.makemeoo.procedural;
 
 public class DistanceAndDirectionCalculator {
     public static double distance(double x1, double y1, double x2, double y2) {

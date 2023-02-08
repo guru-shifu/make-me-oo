@@ -1,4 +1,4 @@
-package org.oop;
+package com.thoughtworks.makemeoo.oop;
 
 public class Point {
     private double x;

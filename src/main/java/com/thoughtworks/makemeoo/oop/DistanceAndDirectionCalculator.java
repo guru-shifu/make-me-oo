@@ -1,4 +1,4 @@
-package org.oop;
+package com.thoughtworks.makemeoo.oop;
 
 public class DistanceAndDirectionCalculator {
     public static double distance(Point from, Point to) {

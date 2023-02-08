@@ -1,10 +1,10 @@
-package org.procedural;
+package com.thoughtworks.makemeoo.procedural;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.procedural.DistanceAndDirectionCalculator.direction;
-import static org.procedural.DistanceAndDirectionCalculator.distance;
+import static com.thoughtworks.makemeoo.procedural.DistanceAndDirectionCalculator.direction;
+import static com.thoughtworks.makemeoo.procedural.DistanceAndDirectionCalculator.distance;
 
 public class DistanceAndDirectionCalculatorTest {
 
